@@ -1,5 +1,5 @@
-commit=68d0a4e4bfd8dc5a1daa296c61e0cc0b10a871da
-timestamp=2026-11-02T04:52:10Z
+commit=e8bed7397aaf9d8962489074557c2f1f1a8d4f97
+timestamp=2026-11-06T09:09:47Z
 upstream_url=https://github.com/aimod-cc/Agent2API
 upstream_branch=main
-version=3.0.8
+version=3.4.2
